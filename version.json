@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "versionCode": 0,
-  "date": "2026-09-23T00:00:00Z",
-  "notes": "Versión inicial del canal de actualizaciones.",
+  "version": "2.0.0",
+  "versionCode": 11,
+  "date": "2026-09-23T17:49:53Z",
+  "notes": "Actualización disponible desde la app.",
   "apkUrl": "https://github.com/servixam-max/CajApp-updates/releases/latest/download/CajApp-latest.apk",
   "minVersionCode": 0,
   "mandatory": false
